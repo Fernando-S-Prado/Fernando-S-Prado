@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋
+# Hello, World! 👋
 
 Meu nome é Fernando e sou um estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou no meu 4º semestre e tenho 32 anos de idade. 
 
