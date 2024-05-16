@@ -1,12 +1,10 @@
-# Hello, World! 👋
 
-Meu nome é Fernando e sou um estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou no meu 4º semestre e tenho 32 anos de idade. 
+Meu nome é Fernando e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou no meu 4º semestre e tenho 32 anos de idade. 
 
 ## 🚀 Sobre Mim
 - 🔭 Estou focado em **Desenvolvimento Web**.
 - 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em **JavaScript**, **HTML** e **CSS**.
 - 👯 Estou procurando colaborar em projetos de desenvolvimento web.
-- 🎯 Meu objetivo é contribuir para projetos open-source.
 
 ## 🛠️ Habilidades Técnicas
 - Desenvolvimento Web: **JavaScript**, **HTML**, **CSS**
