@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, eu sou o Fernando! 👋
 
-<!--
-**Fernando-S-Prado/Fernando-S-Prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Tenho experiência em:
 
-Here are some ideas to get you started:
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **SQL (MySQL)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivos 
+Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com projetos inovadores. Meu objetivo é criar soluções eficientes e impactantes no mundo digital.
+
+### Certificados
+Tenho diversos certificados em meu [LinkedIn](https://www.linkedin.com/in/fernando-s-prado). Vamos nos conectar e colaborar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernando-blue)](https://www.linkedin.com/in/fernando-s-prado)
+
